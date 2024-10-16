@@ -7,7 +7,7 @@
 ![Views](https://github-views.deno.dev/api/badge/thebabayagakiller?style=classic)
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript , C++**
 
 - 💬 Ask me about **Programming , Network+ , WebPentest , DDoS**
 
