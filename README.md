@@ -16,8 +16,8 @@
 - ⚡ Fun fact **My only partner in life is my computer :)**
   
 - ☢️ My discord team server **[discord](https://discord.gg/YU7jYRkxwp)**
-
-[![Discord Presence](https://discordsvgcreator.pythonanywhere.com/getUserProfile/1078293779410329610?showBadges=True&showID=True)](https://discord.com/users/1078293779410329610)
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1003515875237822504)](https://discord.com/users/1003515875237822504)
 
 - 🧨 New Acc Discord id : itz3xpl0it
 
