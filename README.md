@@ -17,7 +17,7 @@
   
 - ☢️ My discord team server **[discord](https://discord.gg/YU7jYRkxwp)**
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/1003515875237822504)](https://discord.com/users/1003515875237822504)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1003515875237822504?theme=light&showDisplayName=true)](https://discord.com/users/1003515875237822504)
 
 - 🧨 New Acc Discord id : itz3xpl0it
 
