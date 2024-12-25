@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm 𝙴𝚡𝚙𝚕𝚘!𝚝ᵀᵒˣᶤᶜ</h1>
+<h1 align="center">Hi 👋, I'm ﾎ 𝙴𝚡𝚙𝚕𝚘!𝚝 </h1>
 <br>
-<h2 align="center">My Name Is  𝙴𝚡𝚙𝚕𝚘!𝚝ᵀᵒˣᶤᶜ</h2>
+<h2 align="center">My Name Is  ﾎ 𝙴𝚡𝚙𝚕𝚘!𝚝 </h2>
 
 <h3 align="center">A small Python programmer in the streets of his city</h3>
 
