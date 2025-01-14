@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **JavaScript , C++**
 
-- 💬 Ask me about **Programming , Network+ , WebPentest , DDoS**
-
-- 📫 How to reach me **yt8576899@gmail.com**
-
 - ⚡ Fun fact **My only partner in life is my computer :)**
   
 - ☢️ My discord team server **[discord](https://discord.gg/YU7jYRkxwp)**
