@@ -15,7 +15,7 @@
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/1003515875237822504?theme=light&showDisplayName=true)](https://discord.com/users/1003515875237822504)
 
-- 🧨 New Acc Discord id : itz3xpl0it
+- 🧨 New Acc Discord id : scrania
 
 <img src="https://camo.githubusercontent.com/6b7f3ef58cd668550fd1190502ccf528a87dd21a1e0d1e7d826657bbb46a1102/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f2d2532333030414444382e7376673f7374796c653d706c6173746963266c6f676f3d676f266c6f676f436f6c6f723d7768697465" alt="Go" data-canonical-src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&amp;logo=go&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/3c49e31728bcaae1bf324071195b96048cdf7195f24c5dcc30f58e4b9c4f854c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d706c6173746963266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=plastic&amp;logo=python&amp;logoColor=ffdd54" style="max-width: 100%;">
